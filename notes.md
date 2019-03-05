@@ -1,0 +1,1 @@
+Test components the way a user would test them manually.
